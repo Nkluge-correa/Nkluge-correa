@@ -20,7 +20,7 @@
   <br><br>
   🤖 I’m currently working on Machine Learning.
   <br><br>
-  👨‍🔬 Check some of my work <a href="https://nkluge-correa.github.io/" title="Issues">here</a>
+  👨‍🔬 Check some of my work <a href="https://nkluge-correa.github.io/" title="My website">here</a>
   <br><br>
   📫 How to reach me: <a href="mailto: nicholas@airespucrs.org">nicholas@airespucrs.org</a>
 </p>
@@ -50,19 +50,6 @@
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
 </p>
-<hr>
-
-<h2 align="center">📊 Stats </h2>
-<br>
-<p align=center>
-  <div align=center>
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Nkluge-correa&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=Nkluge-correa&theme=react&border=61dafb&hide_border=true" alt="Nkluge-correa" />
-  </div>
-  <br><br><br><br><br><br><br><br><br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nkluge-correa&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</p>
-
 <hr>
 
 <h2 align="center">🗂️ Highlight Projects </h2>
