@@ -49,6 +49,7 @@
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
   <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="PHP" height="25" src="images/php.svg"></code>
+  <code><img title="Discord" height="25" src="images/discord.png"></code>
 </p>
 <hr>
 
