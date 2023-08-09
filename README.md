@@ -12,7 +12,7 @@
   <br><br>
   🔬 I'm a researcher at the <a href="https://www.pucrs.br/">Pontifical Catholic University of Rio Grande do Sul</a> (PUC-RS). Currently, I'm finishing my Ph.D. in <a href="https://www.uni-bonn.de/en?set_language=en">Bonn University</a> (Germany).
   <br><br>
-  👨‍🎓 I'm Master in Electrical Engineering.
+  👨‍🎓 I'm a Master in Electrical Engineering.
   <br><br>
   👨‍🎓 I'm a Ph.D candidate in Philosophy.
   <br><br>
@@ -20,9 +20,9 @@
   <br><br>
   🤖 I’m currently working on Machine Learning.
   <br><br>
-  👨‍🔬 Check some of my work <a href="https://nkluge-correa.github.io/" title="My website">here</a>
+  👨‍🔬 Check some of my work <a href="https://nkluge-correa.github.io/" title="My website">here</a>!
   <br><br>
-  📫 How to reach me: <a href="mailto: nicholas@airespucrs.org">nicholas@airespucrs.org</a>
+  📫 How to reach me: <a href="mailto: nicholas@airespucrs.org">nicholas@airespucrs.org</a>.
 </p>
 
 <hr>
