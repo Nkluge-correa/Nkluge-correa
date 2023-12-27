@@ -1,24 +1,20 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=How+did+you+find+me?!;Oh+well...;Hello+👋;I'm+Nicholas....&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+👋&center=true&size=30">
   </a>
 </h1>
 
 <br>
 <p align="center">
- My name is Nicholas Kluge Corrêa. <img width="22" src="https://static.thenounproject.com/png/105262-200.png">
-  <br><br>
-  <img src="https://badges.frapsoft.com/os/v1/open-source.svg">
+ My name is Nicholas Kluge Corrêa. 
   <br><br>
   🔬 I'm a researcher at the <a href="https://www.pucrs.br/">Pontifical Catholic University of Rio Grande do Sul</a> (PUC-RS). Currently, I'm finishing my Ph.D. in <a href="https://www.uni-bonn.de/en?set_language=en">Bonn University</a> (Germany).
   <br><br>
   👨‍🎓 I'm a Master in Electrical Engineering.
   <br><br>
-  👨‍🎓 I'm a Ph.D candidate in Philosophy.
+  👨‍🎓 A Ph.D candidate in Philosophy.
   <br><br>
-  💻 I love writing code.
-  <br><br>
-  🤖 I’m currently working on Machine Learning.
+  🤖 And a Machine Learning Engineer.
   <br><br>
   👨‍🔬 Check some of my work <a href="https://nkluge-correa.github.io/" title="My website">here</a>!
   <br><br>
