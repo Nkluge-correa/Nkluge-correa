@@ -20,7 +20,7 @@
 <h2 align="center">🗂️ Highlight Projects </h2>
 
 <div align=center>
-<a href="https://github.com/Nkluge-correa/teeny-tiny_castle">
+<a href="https://github.com/Nkluge-correa/TeenyTinyLlama">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Nkluge-correa&repo=TeenyTinyLlama&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="TeenyTinyLlama" />
 </a>
 </div>
