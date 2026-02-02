@@ -8,11 +8,11 @@
 <p align="center">
  My name is Nicholas Kluge Corrêa.
   <br><br>
-  🔬 I am a postdoc researcher at the Center for Science and Thought at the University of Bonn (Germany).
+  🔬 I am a postdoc researcher at the Bonn-Aachen International Center for Information Technology (b-it) / CAISA Lab, at the University of Bonn (Germany).
   <br><br>
   👨‍🔬 Check some of my work <a href="https://nkluge-correa.github.io/" title="My website">here</a>!
   <br><br>
-  📫 How to reach me: <a href="mailto: nicholas@airespucrs.org">nicholas@airespucrs.org</a>.
+  📫 How to reach me: <a href="mailto: nicholas.kluge.correa@gmail.com">nicholas.kluge.correa@gmail.com</a>.
 </p>
 
 <hr>
